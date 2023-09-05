@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Users/ASUS/Desktop/Module/Data Communication and Networks/Labs/lab2/lab2-source/build",
+  "command": "C:\\MinGW\\bin\\gcc.exe   -g -o CMakeFiles\\test1.dir\\mypcm.c.obj -c \"C:\\Users\\ASUS\\Desktop\\Module\\Data Communication and Networks\\Labs\\lab2\\lab2-source\\mypcm.c\"",
+  "file": "C:/Users/ASUS/Desktop/Module/Data Communication and Networks/Labs/lab2/lab2-source/mypcm.c",
+  "output": "CMakeFiles/test1.dir/mypcm.c.obj"
+},
+{
+  "directory": "C:/Users/ASUS/Desktop/Module/Data Communication and Networks/Labs/lab2/lab2-source/build",
+  "command": "C:\\MinGW\\bin\\gcc.exe   -g -o CMakeFiles\\test1.dir\\lab2.c.obj -c \"C:\\Users\\ASUS\\Desktop\\Module\\Data Communication and Networks\\Labs\\lab2\\lab2-source\\lab2.c\"",
+  "file": "C:/Users/ASUS/Desktop/Module/Data Communication and Networks/Labs/lab2/lab2-source/lab2.c",
+  "output": "CMakeFiles/test1.dir/lab2.c.obj"
+}
+]
